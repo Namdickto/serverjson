@@ -1,3 +1,6 @@
 {
-    "nam":[]
-}
+    "products": [
+      { "id": 1, "name": "Áo thun", "price": 100 }
+    ]
+  }
+  
